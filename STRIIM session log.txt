@@ -1,0 +1,1624 @@
+jdk1.8.0_341/jre/lib/oblique-fonts/LucidaTypewriterOblique.ttf
+jdk1.8.0_341/jre/lib/oblique-fonts/LucidaTypewriterBoldOblique.ttf
+jdk1.8.0_341/jre/lib/oblique-fonts/LucidaSansOblique.ttf
+jdk1.8.0_341/jre/lib/oblique-fonts/LucidaSansDemiOblique.ttf
+jdk1.8.0_341/jre/lib/oblique-fonts/fonts.dir
+jdk1.8.0_341/jre/lib/jfr/default.jfc
+jdk1.8.0_341/jre/lib/jfr/profile.jfc
+jdk1.8.0_341/jre/lib/sound.properties
+jdk1.8.0_341/jre/lib/net.properties
+jdk1.8.0_341/jre/lib/jexec
+jdk1.8.0_341/jre/lib/ext/zipfs.jar
+jdk1.8.0_341/jre/lib/ext/nashorn.jar
+jdk1.8.0_341/jre/lib/ext/sunec.jar
+jdk1.8.0_341/jre/lib/ext/sunjce_provider.jar
+jdk1.8.0_341/jre/lib/ext/sunpkcs11.jar
+jdk1.8.0_341/jre/lib/ext/dnsns.jar
+jdk1.8.0_341/jre/lib/ext/localedata.jar
+jdk1.8.0_341/jre/lib/ext/cldrdata.jar
+jdk1.8.0_341/jre/lib/ext/jaccess.jar
+jdk1.8.0_341/jre/lib/ext/meta-index
+jdk1.8.0_341/jre/lib/ext/jfxrt.jar
+jdk1.8.0_341/jre/lib/jce.jar
+jdk1.8.0_341/jre/lib/management-agent.jar
+jdk1.8.0_341/jre/lib/classlist
+jdk1.8.0_341/jre/lib/jfr.jar
+jdk1.8.0_341/jre/lib/charsets.jar
+jdk1.8.0_341/jre/lib/jsse.jar
+jdk1.8.0_341/jre/lib/rt.jar
+jdk1.8.0_341/jre/lib/resources.jar
+jdk1.8.0_341/jre/lib/meta-index
+jdk1.8.0_341/jre/lib/deploy.jar
+jdk1.8.0_341/jre/lib/deploy/MixedCodeMainDialog.ui
+jdk1.8.0_341/jre/lib/deploy/MixedCodeMainDialogJs.ui
+jdk1.8.0_341/jre/lib/deploy/cautionshield.icns
+jdk1.8.0_341/jre/lib/deploy/java-icon.ico
+jdk1.8.0_341/jre/lib/deploy/messages.properties
+jdk1.8.0_341/jre/lib/deploy/messages_de.properties
+jdk1.8.0_341/jre/lib/deploy/messages_es.properties
+jdk1.8.0_341/jre/lib/deploy/messages_fr.properties
+jdk1.8.0_341/jre/lib/deploy/messages_it.properties
+jdk1.8.0_341/jre/lib/deploy/messages_ja.properties
+jdk1.8.0_341/jre/lib/deploy/messages_ko.properties
+jdk1.8.0_341/jre/lib/deploy/messages_pt_BR.properties
+jdk1.8.0_341/jre/lib/deploy/messages_sv.properties
+jdk1.8.0_341/jre/lib/deploy/messages_zh_CN.properties
+jdk1.8.0_341/jre/lib/deploy/messages_zh_HK.properties
+jdk1.8.0_341/jre/lib/deploy/messages_zh_TW.properties
+jdk1.8.0_341/jre/lib/deploy/mixcode_s.png
+jdk1.8.0_341/jre/lib/deploy/splash.gif
+jdk1.8.0_341/jre/lib/deploy/splash@2x.gif
+jdk1.8.0_341/jre/lib/deploy/splash_11-lic.gif
+jdk1.8.0_341/jre/lib/deploy/splash_11@2x-lic.gif
+jdk1.8.0_341/jre/lib/desktop/applications/sun-java.desktop
+jdk1.8.0_341/jre/lib/desktop/applications/sun-javaws.desktop
+jdk1.8.0_341/jre/lib/desktop/applications/sun_java.desktop
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/16x16/apps/sun-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/16x16/apps/sun-javaws.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/16x16/apps/sun-jcontrol.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-ap                                                                                plication-x-java-archive.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-ap                                                                                plication-x-java-jnlp-file.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-te                                                                                xt-x-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/48x48/apps/sun-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/48x48/apps/sun-javaws.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/48x48/apps/sun-jcontrol.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-ap                                                                                plication-x-java-archive.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-ap                                                                                plication-x-java-jnlp-file.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-te                                                                                xt-x-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-java.pn                                                                                g
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-javaws.                                                                                png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-jcontro                                                                                l.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-                                                                                mime-application-x-java-archive.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-                                                                                mime-application-x-java-jnlp-file.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-                                                                                mime-text-x-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-java.pn                                                                                g
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-javaws.                                                                                png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-jcontro                                                                                l.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-                                                                                mime-application-x-java-archive.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-                                                                                mime-application-x-java-jnlp-file.png
+jdk1.8.0_341/jre/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-                                                                                mime-text-x-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/16x16/apps/sun-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/16x16/apps/sun-javaws.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/16x16/apps/sun-jcontrol.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-app                                                                                lication-x-java-archive.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-app                                                                                lication-x-java-jnlp-file.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-tex                                                                                t-x-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/48x48/apps/sun-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/48x48/apps/sun-javaws.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/48x48/apps/sun-jcontrol.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-app                                                                                lication-x-java-archive.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-app                                                                                lication-x-java-jnlp-file.png
+jdk1.8.0_341/jre/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-tex                                                                                t-x-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/16x16/apps/sun-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/16x16/apps/sun-javaws.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/16x16/apps/sun-jcontrol.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-applica                                                                                tion-x-java-archive.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-applica                                                                                tion-x-java-jnlp-file.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-text-x-                                                                                java.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/48x48/apps/sun-java.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/48x48/apps/sun-javaws.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/48x48/apps/sun-jcontrol.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-applica                                                                                tion-x-java-archive.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-applica                                                                                tion-x-java-jnlp-file.png
+jdk1.8.0_341/jre/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-text-x-                                                                                java.png
+jdk1.8.0_341/jre/lib/desktop/mime/packages/x-java-archive.xml
+jdk1.8.0_341/jre/lib/desktop/mime/packages/x-java-jnlp-file.xml
+jdk1.8.0_341/jre/lib/javaws.jar
+jdk1.8.0_341/jre/lib/locale/de/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/es/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/fr/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/it/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/ja/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/ko.UTF-8/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/ko/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/pt_BR/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/sv/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/zh.GBK/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/zh/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/zh_HK.BIG5HK/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/zh_TW.BIG5/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/locale/zh_TW/LC_MESSAGES/sunw_java_plugin.mo
+jdk1.8.0_341/jre/lib/plugin.jar
+jdk1.8.0_341/jre/lib/javafx.properties
+jdk1.8.0_341/jre/lib/jfxswt.jar
+jdk1.8.0_341/jre/COPYRIGHT
+jdk1.8.0_341/jre/Welcome.html
+jdk1.8.0_341/jre/LICENSE
+jdk1.8.0_341/jre/THIRDPARTYLICENSEREADME.txt
+jdk1.8.0_341/jre/README
+jdk1.8.0_341/jre/legal/jdk/xalan.md
+jdk1.8.0_341/jre/legal/jdk/jopt-simple.md
+jdk1.8.0_341/jre/legal/jdk/ecc.md
+jdk1.8.0_341/jre/legal/jdk/jcup.md
+jdk1.8.0_341/jre/legal/jdk/unicode.md
+jdk1.8.0_341/jre/legal/jdk/santuario.md
+jdk1.8.0_341/jre/legal/jdk/xerces.md
+jdk1.8.0_341/jre/legal/jdk/icu.md
+jdk1.8.0_341/jre/legal/jdk/lcms.md
+jdk1.8.0_341/jre/legal/jdk/zlib.md
+jdk1.8.0_341/jre/legal/jdk/joni.md
+jdk1.8.0_341/jre/legal/jdk/relaxngom.md
+jdk1.8.0_341/jre/legal/jdk/colorimaging.md
+jdk1.8.0_341/jre/legal/jdk/pkcs11cryptotoken.md
+jdk1.8.0_341/jre/legal/jdk/freebxml.md
+jdk1.8.0_341/jre/legal/jdk/asm.md
+jdk1.8.0_341/jre/legal/jdk/libpng.md
+jdk1.8.0_341/jre/legal/jdk/cryptix.md
+jdk1.8.0_341/jre/legal/jdk/dom.md
+jdk1.8.0_341/jre/legal/jdk/bcel.md
+jdk1.8.0_341/jre/legal/jdk/xmlresolver.md
+jdk1.8.0_341/jre/legal/jdk/jpeg.md
+jdk1.8.0_341/jre/legal/jdk/relaxngcc.md
+jdk1.8.0_341/jre/legal/jdk/mesa3d.md
+jdk1.8.0_341/jre/legal/jdk/giflib.md
+jdk1.8.0_341/jre/legal/jdk/pkcs11wrapper.md
+jdk1.8.0_341/jre/legal/jdk/dynalink.md
+jdk1.8.0_341/jre/legal/jdk/thaidict.md
+jdk1.8.0_341/jre/legal/jdk/relaxngdatatype.md
+jdk1.8.0_341/jre/legal/jdk/cldr.md
+jdk1.8.0_341/jre/legal/jdk/pcsclite.md
+jdk1.8.0_341/jre/legal/jdk/xwd.md
+jdk1.8.0_341/jre/legal/jdk/libxrandr.md
+jdk1.8.0_341/jre/legal/jdk/xorgproto.md
+jdk1.8.0_341/jre/legal/javafx/directshow.md
+jdk1.8.0_341/jre/legal/javafx/glib.md
+jdk1.8.0_341/jre/legal/javafx/gstreamer.md
+jdk1.8.0_341/jre/legal/javafx/icu_web.md
+jdk1.8.0_341/jre/legal/javafx/jpeg_fx.md
+jdk1.8.0_341/jre/legal/javafx/libffi.md
+jdk1.8.0_341/jre/legal/javafx/libxml2.md
+jdk1.8.0_341/jre/legal/javafx/libxslt.md
+jdk1.8.0_341/jre/legal/javafx/mesa3d.md
+jdk1.8.0_341/jre/legal/javafx/public_suffix.md
+jdk1.8.0_341/jre/legal/javafx/webkit.md
+jdk1.8.0_341/jre/plugin/desktop/sun_java.desktop
+jdk1.8.0_341/jre/plugin/desktop/sun_java.png
+jdk1.8.0_341/jre/THIRDPARTYLICENSEREADME-JAVAFX.txt
+jdk1.8.0_341/legal/jdk/xalan.md
+jdk1.8.0_341/legal/jdk/jopt-simple.md
+jdk1.8.0_341/legal/jdk/ecc.md
+jdk1.8.0_341/legal/jdk/jcup.md
+jdk1.8.0_341/legal/jdk/unicode.md
+jdk1.8.0_341/legal/jdk/santuario.md
+jdk1.8.0_341/legal/jdk/icu.md
+jdk1.8.0_341/legal/jdk/xerces.md
+jdk1.8.0_341/legal/jdk/lcms.md
+jdk1.8.0_341/legal/jdk/zlib.md
+jdk1.8.0_341/legal/jdk/joni.md
+jdk1.8.0_341/legal/jdk/relaxngom.md
+jdk1.8.0_341/legal/jdk/colorimaging.md
+jdk1.8.0_341/legal/jdk/pkcs11cryptotoken.md
+jdk1.8.0_341/legal/jdk/freebxml.md
+jdk1.8.0_341/legal/jdk/asm.md
+jdk1.8.0_341/legal/jdk/libpng.md
+jdk1.8.0_341/legal/jdk/cryptix.md
+jdk1.8.0_341/legal/jdk/dom.md
+jdk1.8.0_341/legal/jdk/bcel.md
+jdk1.8.0_341/legal/jdk/xmlresolver.md
+jdk1.8.0_341/legal/jdk/jpeg.md
+jdk1.8.0_341/legal/jdk/relaxngcc.md
+jdk1.8.0_341/legal/jdk/mesa3d.md
+jdk1.8.0_341/legal/jdk/giflib.md
+jdk1.8.0_341/legal/jdk/pkcs11wrapper.md
+jdk1.8.0_341/legal/jdk/dynalink.md
+jdk1.8.0_341/legal/jdk/thaidict.md
+jdk1.8.0_341/legal/jdk/relaxngdatatype.md
+jdk1.8.0_341/legal/jdk/cldr.md
+jdk1.8.0_341/legal/jdk/pcsclite.md
+jdk1.8.0_341/legal/jdk/xwd.md
+jdk1.8.0_341/legal/jdk/libxrandr.md
+jdk1.8.0_341/legal/jdk/xorgproto.md
+jdk1.8.0_341/legal/javafx/directshow.md
+jdk1.8.0_341/legal/javafx/glib.md
+jdk1.8.0_341/legal/javafx/gstreamer.md
+jdk1.8.0_341/legal/javafx/icu_web.md
+jdk1.8.0_341/legal/javafx/jpeg_fx.md
+jdk1.8.0_341/legal/javafx/libffi.md
+jdk1.8.0_341/legal/javafx/libxml2.md
+jdk1.8.0_341/legal/javafx/libxslt.md
+jdk1.8.0_341/legal/javafx/mesa3d.md
+jdk1.8.0_341/legal/javafx/public_suffix.md
+jdk1.8.0_341/legal/javafx/webkit.md
+jdk1.8.0_341/lib/amd64/jli/libjli.so
+jdk1.8.0_341/lib/amd64/libjawt.so
+jdk1.8.0_341/lib/orb.idl
+jdk1.8.0_341/lib/ir.idl
+jdk1.8.0_341/lib/jexec
+jdk1.8.0_341/lib/jconsole.jar
+jdk1.8.0_341/lib/sa-jdi.jar
+jdk1.8.0_341/lib/dt.jar
+jdk1.8.0_341/lib/tools.jar
+jdk1.8.0_341/lib/ct.sym
+jdk1.8.0_341/lib/visualvm/profiler/.lastModified
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-oql.                                                                                jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-api.                                                                                jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-lib-profiler.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-ui.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-snap                                                                                tracer.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-util                                                                                ities.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-heap                                                                                walker.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-sele                                                                                ctor-ui.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-charts.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-atta                                                                                ch.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-selector-api_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-heapwalker_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-snaptracer_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-c                                                                                harts_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-selector-ui_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-c                                                                                ommon_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-attach_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-attach_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-u                                                                                i_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-c                                                                                ommon_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-u                                                                                i_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-oql_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-utilities_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-utilities_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler_z                                                                                h_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-api_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler_j                                                                                a.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-heapwalker_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-selector-ui_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-api_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-c                                                                                harts_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-selector-api_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-oql_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profil                                                                                er-snaptracer_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-sele                                                                                ctor-api.jar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-common.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/profiler/modules/org-netbeans-modules-profiler.jar
+jdk1.8.0_341/lib/visualvm/profiler/VERSION.txt
+jdk1.8.0_341/lib/visualvm/profiler/lib/jfluid-server.jar
+jdk1.8.0_341/lib/visualvm/profiler/lib/deployed/jdk16/linux-amd64/libprofiler                                                                                interface.so
+jdk1.8.0_341/lib/visualvm/profiler/lib/deployed/jdk15/linux-amd64/libprofiler                                                                                interface.so
+jdk1.8.0_341/lib/visualvm/profiler/lib/locale/jfluid-server_ja.jar
+jdk1.8.0_341/lib/visualvm/profiler/lib/locale/jfluid-server_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/profiler/lib/jfluid-server-15.jar
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-lib-profiler-                                                                                charts.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler-snaptracer.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-lib-profiler.                                                                                xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-lib-profiler-                                                                                common.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler-attach.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-lib-profiler-                                                                                ui.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler-api.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler-utilities.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler-oql.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler-selector-api.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler-heapwalker.xml
+jdk1.8.0_341/lib/visualvm/profiler/update_tracking/org-netbeans-modules-profi                                                                                ler-selector-ui.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-lib-profiler-c                                                                                harts.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er-snaptracer.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-lib-profiler.x                                                                                ml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-lib-profiler-c                                                                                ommon.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er-attach.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-lib-profiler-u                                                                                i.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er-api.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er-utilities.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er-oql.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er-selector-api.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er-heapwalker.xml
+jdk1.8.0_341/lib/visualvm/profiler/config/Modules/org-netbeans-modules-profil                                                                                er-selector-ui.xml
+jdk1.8.0_341/lib/visualvm/platform/core/org-openide-filesystems.jar
+jdk1.8.0_341/lib/visualvm/platform/core/core.jar
+jdk1.8.0_341/lib/visualvm/platform/core/locale/core_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/core/locale/org-openide-filesystems_zh_CN.                                                                                jar
+jdk1.8.0_341/lib/visualvm/platform/core/locale/core_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/core/locale/org-openide-filesystems_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/.lastModified
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-editor-mimelo                                                                                okup.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-awt.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-swing-plaf.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-uihandler.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-javahelp.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-core-multiview.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-core-execution.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-core-kit.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-core.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-compat.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-templates.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-api-search.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-masterfs.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-keyring-fallb                                                                                ack.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-editor-mimelo                                                                                okup-impl.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-windows.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-sampler.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-io.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-masterfs-nio2                                                                                .jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-text.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-util-enumerations.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-lib-uihandler.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-autoupdate-cl                                                                                i.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-nodes.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-autoupdate-se                                                                                rvices.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/ext/updater.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/ext/locale/updater_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/ext/locale/updater_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/ext/jhall-2.0_05.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-favorites.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-explorer.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-applemenu.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-core-windows.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-settings.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-core-io-ui.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-core-ui.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-actions.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-api-visual.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-keyring-impl.                                                                                jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-keyring.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-autoupdate-ui                                                                                .jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-swing-tabcontrol.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-options.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-queries.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-api-progress.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-loaders.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-swing-outline.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-dialogs.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-options-keyma                                                                                p.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-print.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-swing-outline_                                                                                zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-javahe                                                                                lp_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-print_                                                                                zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-autoup                                                                                date-services_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-options_zh_CN.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-io-ui_zh_                                                                                CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-output2_j                                                                                a.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-sample                                                                                r_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-uihand                                                                                ler_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-options_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-autoup                                                                                date-ui_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-querie                                                                                s_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-api-annotation                                                                                s-common_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-editor                                                                                -mimelookup_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-javahe                                                                                lp_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-querie                                                                                s_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-explorer_zh_CN.                                                                                jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-io_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-execution_zh_CN                                                                                .jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-editor                                                                                -mimelookup-impl_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-swing-tabcontr                                                                                ol_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-compat_zh_CN.ja                                                                                r
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-ui_zh_CN.                                                                                jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-ui_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-io-ui_ja.                                                                                jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-master                                                                                fs-nio2_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-templa                                                                                tes_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-templa                                                                                tes_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-execution                                                                                _zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-api-search_zh_                                                                                CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-swing-tabcontr                                                                                ol_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-lib-uihandler_                                                                                ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-autoup                                                                                date-cli_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-option                                                                                s-keymap_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-compat_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-api-annotation                                                                                s-common_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-loaders_zh_CN.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-dialogs_zh_CN.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-execution                                                                                _ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-progre                                                                                ss-ui_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-lib-uihandler_                                                                                zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-swing-plaf_zh_                                                                                CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-text_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-applem                                                                                enu_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-autoup                                                                                date-services_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-windows_zh_CN.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-awt_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-loaders_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-api-progress_z                                                                                h_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-settin                                                                                gs_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-master                                                                                fs_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-util-enumeratio                                                                                ns_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-windows_j                                                                                a.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-multiview                                                                                _ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-sendop                                                                                ts_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-sendop                                                                                ts_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-awt_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-option                                                                                s-keymap_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-keyrin                                                                                g-fallback_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-spi-quicksearc                                                                                h_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-swing-plaf_ja.                                                                                jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-nodes_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-spi-quicksearc                                                                                h_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-nodes_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-spi-ac                                                                                tions_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-keyrin                                                                                g-impl_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-option                                                                                s-api_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-keyrin                                                                                g-impl_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-dialogs_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-multiview                                                                                _zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-spi-ac                                                                                tions_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-actions_zh_CN.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-favori                                                                                tes_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-io_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-sample                                                                                r_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-keyrin                                                                                g_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-autoup                                                                                date-ui_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-windows_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-keyrin                                                                                g-fallback_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-master                                                                                fs_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-autoup                                                                                date-cli_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-swing-outline_                                                                                ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-api-progress_j                                                                                a.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-multitabs                                                                                _ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-option                                                                                s-api_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-settin                                                                                gs_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-api-visual_zh_                                                                                CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-master                                                                                fs-nio2_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-execution_ja.ja                                                                                r
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-core-k                                                                                it_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-favori                                                                                tes_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-uihand                                                                                ler_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-api-search_ja.                                                                                jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-print_                                                                                ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-actions_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-applem                                                                                enu_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-util-enumeratio                                                                                ns_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-multitabs                                                                                _zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-text_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-keyrin                                                                                g_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-core-k                                                                                it_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-openide-explorer_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-windows_z                                                                                h_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-api-visual_ja.                                                                                jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-progre                                                                                ss-ui_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-editor                                                                                -mimelookup_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-core-output2_z                                                                                h_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/locale/org-netbeans-modules-editor                                                                                -mimelookup-impl_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-openide-execution.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-core-output2.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-api-annotations-commo                                                                                n.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-core-multitabs.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-options-api.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-spi-quicksearch.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-progress-ui.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-sendopts.jar
+jdk1.8.0_341/lib/visualvm/platform/modules/org-netbeans-modules-spi-actions.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/VERSION.txt
+jdk1.8.0_341/lib/visualvm/platform/lib/boot.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/org-openide-modules.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/org-openide-util.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/org-openide-util-lookup.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/locale/org-openide-modules_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/locale/boot_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/locale/org-openide-modules_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/locale/org-openide-util_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/locale/org-openide-util_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/locale/org-openide-util-lookup_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/locale/org-openide-util-lookup_zh_CN.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/platform/lib/locale/boot_ja.jar
+jdk1.8.0_341/lib/visualvm/platform/lib/nbexec
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-setti                                                                                ngs.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-dialogs.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-lib-uihandler                                                                                .xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-optio                                                                                ns-api.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-execution.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-autou                                                                                pdate-cli.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-swing-plaf.xm                                                                                l
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-api-progress.                                                                                xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-edito                                                                                r-mimelookup.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-spi-quicksear                                                                                ch.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-progr                                                                                ess-ui.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-keyri                                                                                ng-impl.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-swing-tabcont                                                                                rol.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-favor                                                                                ites.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-sampl                                                                                er.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core-output2.                                                                                xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-sendo                                                                                pts.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-autou                                                                                pdate-ui.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-api-visual.xm                                                                                l
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-util-enumerati                                                                                ons.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core-ui.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core-multivie                                                                                w.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-io.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-explorer.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-keyri                                                                                ng.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-apple                                                                                menu.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core-executio                                                                                n.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-compat.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core-io-ui.xm                                                                                l
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-options.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-javah                                                                                elp.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-keyri                                                                                ng-fallback.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-queri                                                                                es.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-print                                                                                .xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-awt.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-util.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-maste                                                                                rfs-nio2.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-templ                                                                                ates.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-modules.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-bootstrap.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-autou                                                                                pdate-services.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-text.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core-multitab                                                                                s.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-nodes.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core-startup.                                                                                xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-maste                                                                                rfs.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-filesystems.xm                                                                                l
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-spi-a                                                                                ctions.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-api-search.xm                                                                                l
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-core-windows.                                                                                xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-api-annotatio                                                                                ns-common.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-edito                                                                                r-mimelookup-impl.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-actions.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-util-lookup.xm                                                                                l
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-core-                                                                                kit.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-swing-outline                                                                                .xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-optio                                                                                ns-keymap.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-windows.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-netbeans-modules-uihan                                                                                dler.xml
+jdk1.8.0_341/lib/visualvm/platform/update_tracking/org-openide-loaders.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-settin                                                                                gs.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-dialogs.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-lib-uihandler.                                                                                xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-option                                                                                s-api.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-execution.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-autoup                                                                                date-cli.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-swing-plaf.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-api-progress.x                                                                                ml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-editor                                                                                -mimelookup.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-spi-quicksearc                                                                                h.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-progre                                                                                ss-ui.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-keyrin                                                                                g-impl.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-swing-tabcontr                                                                                ol.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-favori                                                                                tes.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-sample                                                                                r.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-core-output2.x                                                                                ml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-sendop                                                                                ts.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-autoup                                                                                date-ui.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-api-visual.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-util-enumeratio                                                                                ns.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-core-ui.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-core.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-core-multiview                                                                                .xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-io.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-explorer.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-keyrin                                                                                g.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-applem                                                                                enu.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-core-execution                                                                                .xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-compat.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-core-io-ui.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-options.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-javahe                                                                                lp.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-keyrin                                                                                g-fallback.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-querie                                                                                s.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-print.                                                                                xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-awt.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-master                                                                                fs-nio2.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-templa                                                                                tes.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-autoup                                                                                date-services.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-text.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-core-multitabs                                                                                .xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-nodes.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-master                                                                                fs.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-spi-ac                                                                                tions.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-api-search.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-core-windows.x                                                                                ml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-api-annotation                                                                                s-common.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-editor                                                                                -mimelookup-impl.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-actions.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-core-k                                                                                it.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-swing-outline.                                                                                xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-option                                                                                s-keymap.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-windows.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-netbeans-modules-uihand                                                                                ler.xml
+jdk1.8.0_341/lib/visualvm/platform/config/Modules/org-openide-loaders.xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-netbeans-modules                                                                                -options-api.xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-openide-executio                                                                                n.xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-netbeans-core.xm                                                                                l
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-openide-explorer                                                                                .xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-netbeans-modules                                                                                -queries.xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-openide-util.xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-openide-modules.                                                                                xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-openide-text.xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-openide-nodes.xm                                                                                l
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-openide-filesyst                                                                                ems.xml
+jdk1.8.0_341/lib/visualvm/platform/config/ModuleAutoDeps/org-openide-loaders.                                                                                xml
+jdk1.8.0_341/lib/visualvm/etc/visualvm.conf
+jdk1.8.0_341/lib/visualvm/etc/visualvm.clusters
+jdk1.8.0_341/lib/visualvm/visualvm/core/com-sun-tools-visualvm-modules-startu                                                                                p.jar
+jdk1.8.0_341/lib/visualvm/visualvm/core/locale/com-sun-tools-visualvm-modules                                                                                -startup_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/core/locale/com-sun-tools-visualvm-modules                                                                                -startup_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/core/locale/core_visualvm.jar
+jdk1.8.0_341/lib/visualvm/visualvm/.lastModified
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-profiling.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-jvm.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-sa.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-uisupport.j                                                                                ar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-attach.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-threaddump.                                                                                jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-sampler.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-jmx.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-application                                                                                -views.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-tools.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-host.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-host-views.                                                                                jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-profiler.ja                                                                                r
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-core.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-coredump.ja                                                                                r
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-modules-app                                                                                ui.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-charts.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-host-remote                                                                                .jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-atta                                                                                ch_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-core                                                                                _zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-tool                                                                                s_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-jmx_                                                                                zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-jvm_                                                                                zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-uisu                                                                                pport_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-host                                                                                -remote_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-host                                                                                -views_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-jvm_                                                                                ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-atta                                                                                ch_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-modu                                                                                les-appui_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-thre                                                                                addump_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-core                                                                                dump_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-host                                                                                -remote_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-jvms                                                                                tat_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-host                                                                                _ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-sa_z                                                                                h_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-appl                                                                                ication_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/org-netbeans-core-windows_v                                                                                isualvm.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-heap                                                                                dump_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-tool                                                                                s_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-prof                                                                                iling_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-jmx_                                                                                ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-prof                                                                                iling_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-core                                                                                dump_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-modu                                                                                les-appui_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-prof                                                                                iler_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-core                                                                                _ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-char                                                                                ts_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/org-netbeans-core_visualvm.                                                                                jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-host                                                                                _zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-host                                                                                -views_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-jvms                                                                                tat_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-samp                                                                                ler_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-prof                                                                                iler_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-api-                                                                                caching_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-samp                                                                                ler_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/org-netbeans-modules-profil                                                                                er_visualvm.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-appl                                                                                ication-views_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-thre                                                                                addump_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-api-                                                                                caching_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-sa_j                                                                                a.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-appl                                                                                ication-views_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-appl                                                                                ication_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-heap                                                                                dump_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-char                                                                                ts_zh_CN.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/locale/com-sun-tools-visualvm-uisu                                                                                pport_ja.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-application                                                                                .jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-heapdump.ja                                                                                r
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-jvmstat.jar
+jdk1.8.0_341/lib/visualvm/visualvm/modules/com-sun-tools-visualvm-api-caching                                                                                .jar
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-api                                                                                -caching.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-app                                                                                lication-views.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-uis                                                                                upport.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-sam                                                                                pler.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-pro                                                                                filer.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-jvm                                                                                .xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-mod                                                                                ules-startup.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-too                                                                                ls.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-cor                                                                                e.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-pro                                                                                filing.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-hos                                                                                t-views.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-hos                                                                                t.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-att                                                                                ach.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-cor                                                                                edump.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-thr                                                                                eaddump.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-sa.                                                                                xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-jmx                                                                                .xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-hos                                                                                t-remote.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-cha                                                                                rts.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-app                                                                                lication.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-hea                                                                                pdump.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-mod                                                                                ules-appui.xml
+jdk1.8.0_341/lib/visualvm/visualvm/update_tracking/com-sun-tools-visualvm-jvm                                                                                stat.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-api-                                                                                caching.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-modules-print.                                                                                xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-modules-spi-ac                                                                                tions.xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-appl                                                                                ication-views.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-modules-templa                                                                                tes.xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-uisu                                                                                pport.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-openide-execution.xml_h                                                                                idden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-core-execution                                                                                .xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-samp                                                                                ler.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-prof                                                                                iler.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-api-visual.xml                                                                                _hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-jvm.                                                                                xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-tool                                                                                s.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-core                                                                                .xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-modules-uihand                                                                                ler.xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-prof                                                                                iling.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-modules-core-k                                                                                it.xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-modules-favori                                                                                tes.xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-openide-options.xml_hid                                                                                den
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-lib-uihandler.                                                                                xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-host                                                                                -views.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-host                                                                                .xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-atta                                                                                ch.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-openide-compat.xml_hidd                                                                                en
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-core                                                                                dump.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-thre                                                                                addump.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-sa.x                                                                                ml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-core-output2.x                                                                                ml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-jmx.                                                                                xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-core-io-ui.xml                                                                                _hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-openide-util-enumeratio                                                                                ns.xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/org-netbeans-modules-option                                                                                s-keymap.xml_hidden
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-host                                                                                -remote.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-char                                                                                ts.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-appl                                                                                ication.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-heap                                                                                dump.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-modu                                                                                les-appui.xml
+jdk1.8.0_341/lib/visualvm/visualvm/config/Modules/com-sun-tools-visualvm-jvms                                                                                tat.xml
+jdk1.8.0_341/lib/ant-javafx.jar
+jdk1.8.0_341/lib/javafx-mx.jar
+jdk1.8.0_341/lib/packager.jar
+jdk1.8.0_341/man/man1/java.1
+jdk1.8.0_341/man/man1/jjs.1
+jdk1.8.0_341/man/man1/keytool.1
+jdk1.8.0_341/man/man1/pack200.1
+jdk1.8.0_341/man/man1/orbd.1
+jdk1.8.0_341/man/man1/policytool.1
+jdk1.8.0_341/man/man1/rmid.1
+jdk1.8.0_341/man/man1/rmiregistry.1
+jdk1.8.0_341/man/man1/servertool.1
+jdk1.8.0_341/man/man1/tnameserv.1
+jdk1.8.0_341/man/man1/unpack200.1
+jdk1.8.0_341/man/man1/javaws.1
+jdk1.8.0_341/man/man1/appletviewer.1
+jdk1.8.0_341/man/man1/extcheck.1
+jdk1.8.0_341/man/man1/idlj.1
+jdk1.8.0_341/man/man1/jar.1
+jdk1.8.0_341/man/man1/jarsigner.1
+jdk1.8.0_341/man/man1/javac.1
+jdk1.8.0_341/man/man1/javadoc.1
+jdk1.8.0_341/man/man1/javah.1
+jdk1.8.0_341/man/man1/javap.1
+jdk1.8.0_341/man/man1/jconsole.1
+jdk1.8.0_341/man/man1/jcmd.1
+jdk1.8.0_341/man/man1/jdb.1
+jdk1.8.0_341/man/man1/jdeps.1
+jdk1.8.0_341/man/man1/jhat.1
+jdk1.8.0_341/man/man1/jinfo.1
+jdk1.8.0_341/man/man1/jmap.1
+jdk1.8.0_341/man/man1/jps.1
+jdk1.8.0_341/man/man1/jrunscript.1
+jdk1.8.0_341/man/man1/jsadebugd.1
+jdk1.8.0_341/man/man1/jstack.1
+jdk1.8.0_341/man/man1/jstat.1
+jdk1.8.0_341/man/man1/jstatd.1
+jdk1.8.0_341/man/man1/native2ascii.1
+jdk1.8.0_341/man/man1/rmic.1
+jdk1.8.0_341/man/man1/schemagen.1
+jdk1.8.0_341/man/man1/serialver.1
+jdk1.8.0_341/man/man1/wsgen.1
+jdk1.8.0_341/man/man1/wsimport.1
+jdk1.8.0_341/man/man1/xjc.1
+jdk1.8.0_341/man/man1/jvisualvm.1
+jdk1.8.0_341/man/man1/javafxpackager.1
+jdk1.8.0_341/man/man1/javapackager.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/java.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/keytool.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jjs.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/pack200.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/orbd.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/policytool.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/rmid.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/rmiregistry.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/servertool.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/tnameserv.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/unpack200.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/javaws.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/appletviewer.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/extcheck.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/idlj.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jar.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jarsigner.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/javac.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/javadoc.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/javah.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/javap.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jconsole.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jcmd.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jdb.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jdeps.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jhat.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jinfo.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jmap.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jps.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jrunscript.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jsadebugd.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jstack.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jstat.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jstatd.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/native2ascii.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/rmic.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/schemagen.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/serialver.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/wsgen.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/wsimport.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/xjc.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/jvisualvm.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/javafxpackager.1
+jdk1.8.0_341/man/ja_JP.UTF-8/man1/javapackager.1
+jdk1.8.0_341/man/ja
+jdk1.8.0_341/release
+jdk1.8.0_341/src.zip
+jdk1.8.0_341/THIRDPARTYLICENSEREADME-JAVAFX.txt
+jdk1.8.0_341/javafx-src.zip
+jdk1.8.0_341/jmc.txt
+jdk1.8.0_341/jre/lib/applet/
+ Setup Striim Credentials
+KeyStore exists.
+Please enter the sys user password: ************
+Saving the sys user password in the KeyStore.
+Please enter the admin user password: *************
+Saving the admin user password in the KeyStore.
+MDR Types: [1: Derby] [2: Oracle] [3: Postgres]
+Saving the default Derby MDR password in the KeyStore.
+
+ Successfully updated startup.properties file
+ Succesfully started Striim node and dbms
+Starting Striim Server - Version 4.1.0.4 (16f45b2edd)
+Starting Striim Server - Version 4.1.0.4 (16f45b2edd)
+Starting Striim Server - Version 4.1.0.4 (16f45b2edd)
+Starting Server on cluster : Striim_cluster
+Interfaces found in startup file : [10.6.16.7]
+Current node started in cluster : Striim_cluster, with Metadata Repository
+Registered to: Apollo_Hospitals
+ProductKey: 3A556562F-26D8F0CC9-4E9B9DC2
+License Key: D685F0D50-EB5DCF35C-666B3D841-F438B04E8-301A8B3B4-FD1B0
+Exception in thread "main" java.lang.RuntimeException: Product Key is invalid                                                                                 -> Check if ClusterName provided in startUp.properties matches ClusterName p                                                                                rovided to licenseGen.sh when generating LicenseKey.
+        at com.webaction.license.StriimProductKey.<init>(StriimProductKey.jav                                                                                a:57)
+        at com.webaction.license.LicenseManager.setProductKey(LicenseManager.                                                                                java:264)
+        at com.webaction.runtime.Server.startUptheNode(Server.java:811)
+        at com.webaction.runtime.Server.<init>(Server.java:131)
+        at com.webaction.runtime.Server.main(Server.java:2322)
+^Croot@AHAzMMSTRIIM01:~/striim-installs/install# ^C
+root@AHAzMMSTRIIM01:~/striim-installs/install# ^C
+root@AHAzMMSTRIIM01:~/striim-installs/install# ls
+InitialLoadTQLGenerator_v06.jar      striim-install.sh
+create_initial_load_applications.sh  striim-node-4.1.0.4-Linux.deb
+jdk-8u341-linux-x64.tar.gz           striim-uninstall.sh
+striim-dbms-4.1.0.4-Linux.deb
+root@AHAzMMSTRIIM01:~/striim-installs/install# cd ..
+root@AHAzMMSTRIIM01:~/striim-installs# ls
+README.md  install
+root@AHAzMMSTRIIM01:~/striim-installs# ls
+README.md  install
+root@AHAzMMSTRIIM01:~/striim-installs# cd
+root@AHAzMMSTRIIM01:~# cd /opt
+root@AHAzMMSTRIIM01:/opt# ls
+striim
+root@AHAzMMSTRIIM01:/opt# cd striim
+root@AHAzMMSTRIIM01:/opt/striim# ls
+Client                            bin    modules
+Kafka                             conf   sbin
+SampleOutput                      derby  tools
+StriimSDK                         docs   wactionrepos
+Striim_release_notes_readme.html  lib    webconfig
+ThirdPartyLicenseReadMe.txt       logs   webui
+root@AHAzMMSTRIIM01:/opt/striim# cd conf
+root@AHAzMMSTRIIM01:/opt/striim/conf# ls
+DDLCaptureScripts                       alert.template.twig
+DefineMetadataReposDerby.sql            alertApp.template.tql
+DefineMetadataReposOracle.sql           build.properties
+DefineMetadataReposPostgres.sql         default-orm-mongodb.xml
+DefineMeteringReposDerby.sql            default-orm-rdbms.xml
+DefineMeteringReposDerbyPre.sql         default_hibernate_waction.xml
+DefineMeteringReposOracle.sql           default_jpa_orm_nosql.xml
+DefineMeteringReposPostgres.sql         default_jpa_orm_nosql_ondb.xml
+DropMetadataReposDerby.sql              default_jpa_orm_rdbms.xml
+DropMetadataReposOracle.sql             default_jpa_orm_rdbms_new.xml
+DropMetadataReposPostgresql.sql         default_waction_mapping.xml
+DropMeteringReposDerby.sql              default_waction_mapping_mongodb.xml
+DropMeteringReposDerbyPost.sql          hibernate.cfg.xml
+DropMeteringReposOracle.sql             hibernate.properties
+DropMeteringReposPostgres.sql           log4j.console.properties
+GeoLiteCity.dat                         log4j.server.properties
+META-INF                                log4j.server.properties.distribute
+Manifest                                log4j.upgrade.properties
+MigrationFiles                          logging.properties
+MigrationResources                      notificationApp.tql
+UpgradeMetadataReposDerby.sql           perf.properties
+UpgradeMetadataReposDerbyTo4104.sql     persistence_sample.xml
+UpgradeMetadataReposOracle.sql          schemaMigrationApp.template.tql
+UpgradeMetadataReposOracleTo4104.sql    sks.jks
+UpgradeMetadataReposPostgres.sql        sksKey.pwd
+UpgradeMetadataReposPostgresTo4104.sql  startUp.properties
+WActionStore.json                       startUp.properties.default
+WActionStoreQuery.json                  windowsService
+Webaction_Version
+root@AHAzMMSTRIIM01:/opt/striim/conf# nano startUp.properties
+root@AHAzMMSTRIIM01:/opt/striim/conf# nano startUp.properties
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl status striim-dbms
+● striim-dbms.service - Striim DBMS
+     Loaded: loaded (/lib/systemd/system/striim-dbms.service; enabled; vendo>
+     Active: active (running) since Tue 2023-03-28 06:29:14 UTC; 2h 32min ago
+   Main PID: 10547 (java)
+      Tasks: 38 (limit: 77163)
+     Memory: 193.8M
+        CPU: 11.032s
+     CGroup: /system.slice/striim-dbms.service
+             └─10547 java -Dderby.stream.error.file=/var/log/striim/striim-d>
+
+Mar 28 06:29:14 AHAzMMSTRIIM01 systemd[1]: Started Striim DBMS.
+Mar 28 06:29:14 AHAzMMSTRIIM01 striim-dbms[10547]: Tue Mar 28 06:29:14 UTC 2>
+
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl status striim-node
+● striim-node.service - Striim Cluster Node
+     Loaded: loaded (/lib/systemd/system/striim-node.service; enabled; vendo>
+     Active: active (running) since Tue 2023-03-28 06:59:38 UTC; 2h 2min ago
+   Main PID: 15743 (striim-node)
+      Tasks: 104 (limit: 77163)
+     Memory: 864.2M
+        CPU: 41.030s
+     CGroup: /system.slice/striim-node.service
+             ├─15743 /bin/bash /opt/striim/sbin/striim-node start
+             └─15748 /usr/bin/java -Xms1024m -Xmx11264m -server -XX:+UseG1GC>
+
+Mar 28 06:59:38 AHAzMMSTRIIM01 systemd[1]: Started Striim Cluster Node.
+
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl stop striim-node
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl status striim-node
+○ striim-node.service - Striim Cluster Node
+     Loaded: loaded (/lib/systemd/system/striim-node.service; enabled; vendo>
+     Active: inactive (dead) since Tue 2023-03-28 09:03:40 UTC; 49s ago
+    Process: 15743 ExecStart=/opt/striim/sbin/striim-node start (code=killed>
+   Main PID: 15743 (code=killed, signal=TERM)
+        CPU: 41.353s
+
+Mar 28 06:59:38 AHAzMMSTRIIM01 systemd[1]: Started Striim Cluster Node.
+Mar 28 09:03:39 AHAzMMSTRIIM01 systemd[1]: Stopping Striim Cluster Node...
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: striim-node.service: Deactivated >
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: Stopped Striim Cluster Node.
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: striim-node.service: Consumed 41.>
+
+root@AHAzMMSTRIIM01:/opt/striim/conf# ^C
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl stop striim-node
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl status striim-node
+○ striim-node.service - Striim Cluster Node
+     Loaded: loaded (/lib/systemd/system/striim-node.service; enabled; vendo>
+     Active: inactive (dead) since Tue 2023-03-28 09:03:40 UTC; 1min 8s ago
+    Process: 15743 ExecStart=/opt/striim/sbin/striim-node start (code=killed>
+   Main PID: 15743 (code=killed, signal=TERM)
+        CPU: 41.353s
+
+Mar 28 06:59:38 AHAzMMSTRIIM01 systemd[1]: Started Striim Cluster Node.
+Mar 28 09:03:39 AHAzMMSTRIIM01 systemd[1]: Stopping Striim Cluster Node...
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: striim-node.service: Deactivated >
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: Stopped Striim Cluster Node.
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: striim-node.service: Consumed 41.>
+...skipping...
+○ striim-node.service - Striim Cluster Node
+     Loaded: loaded (/lib/systemd/system/striim-node.service; enabled; vendo>
+     Active: inactive (dead) since Tue 2023-03-28 09:03:40 UTC; 1min 8s ago
+    Process: 15743 ExecStart=/opt/striim/sbin/striim-node start (code=killed>
+   Main PID: 15743 (code=killed, signal=TERM)
+        CPU: 41.353s
+
+Mar 28 06:59:38 AHAzMMSTRIIM01 systemd[1]: Started Striim Cluster Node.
+Mar 28 09:03:39 AHAzMMSTRIIM01 systemd[1]: Stopping Striim Cluster Node...
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: striim-node.service: Deactivated >
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: Stopped Striim Cluster Node.
+Mar 28 09:03:40 AHAzMMSTRIIM01 systemd[1]: striim-node.service: Consumed 41.>
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+
+root@AHAzMMSTRIIM01:/opt/striim/conf#
+root@AHAzMMSTRIIM01:/opt/striim/conf#
+root@AHAzMMSTRIIM01:/opt/striim/conf#
+root@AHAzMMSTRIIM01:/opt/striim/conf#
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl status striim-dbms
+● striim-dbms.service - Striim DBMS
+     Loaded: loaded (/lib/systemd/system/striim-dbms.service; enabled; vendo>
+     Active: active (running) since Tue 2023-03-28 06:29:14 UTC; 2h 36min ago
+   Main PID: 10547 (java)
+      Tasks: 38 (limit: 77163)
+     Memory: 193.8M
+        CPU: 11.227s
+     CGroup: /system.slice/striim-dbms.service
+             └─10547 java -Dderby.stream.error.file=/var/log/striim/striim-d>
+
+Mar 28 06:29:14 AHAzMMSTRIIM01 systemd[1]: Started Striim DBMS.
+Mar 28 06:29:14 AHAzMMSTRIIM01 striim-dbms[10547]: Tue Mar 28 06:29:14 UTC 2>
+lines 1-12/12 (END)
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl stop striim-dbms
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl status striim-dbms
+× striim-dbms.service - Striim DBMS
+     Loaded: loaded (/lib/systemd/system/striim-dbms.service; enabled; vendo>
+     Active: failed (Result: exit-code) since Tue 2023-03-28 09:06:05 UTC; 1>
+    Process: 10547 ExecStart=/opt/striim/sbin/striim-dbms start (code=exited>
+    Process: 18163 ExecStop=/opt/striim/sbin/striim-dbms stop (code=exited, >
+   Main PID: 10547 (code=exited, status=143)
+        CPU: 11.613s
+
+Mar 28 06:29:14 AHAzMMSTRIIM01 systemd[1]: Started Striim DBMS.
+Mar 28 06:29:14 AHAzMMSTRIIM01 striim-dbms[10547]: Tue Mar 28 06:29:14 UTC 2>
+Mar 28 09:06:04 AHAzMMSTRIIM01 systemd[1]: Stopping Striim DBMS...
+Mar 28 09:06:05 AHAzMMSTRIIM01 striim-dbms[18163]: Tue Mar 28 09:06:05 UTC 2>
+Mar 28 09:06:05 AHAzMMSTRIIM01 systemd[1]: striim-dbms.service: Main process>
+Mar 28 09:06:05 AHAzMMSTRIIM01 systemd[1]: striim-dbms.service: Failed with >
+Mar 28 09:06:05 AHAzMMSTRIIM01 systemd[1]: Stopped Striim DBMS.
+Mar 28 09:06:05 AHAzMMSTRIIM01 systemd[1]: striim-dbms.service: Consumed 11.>
+...skipping...
+× striim-dbms.service - Striim DBMS
+     Loaded: loaded (/lib/systemd/system/striim-dbms.service; enabled; vendo>
+     Active: failed (Result: exit-code) since Tue 2023-03-28 09:06:05 UTC; 1>
+    Process: 10547 ExecStart=/opt/striim/sbin/striim-dbms start (code=exited>
+    Process: 18163 ExecStop=/opt/striim/sbin/striim-dbms stop (code=exited, >
+   Main PID: 10547 (code=exited, status=143)
+        CPU: 11.613s
+
+Mar 28 06:29:14 AHAzMMSTRIIM01 systemd[1]: Started Striim DBMS.
+Mar 28 06:29:14 AHAzMMSTRIIM01 striim-dbms[10547]: Tue Mar 28 06:29:14 UTC 2>
+Mar 28 09:06:04 AHAzMMSTRIIM01 systemd[1]: Stopping Striim DBMS...
+Mar 28 09:06:05 AHAzMMSTRIIM01 striim-dbms[18163]: Tue Mar 28 09:06:05 UTC 2>
+Mar 28 09:06:05 AHAzMMSTRIIM01 systemd[1]: striim-dbms.service: Main process>
+Mar 28 09:06:05 AHAzMMSTRIIM01 systemd[1]: striim-dbms.service: Failed with >
+Mar 28 09:06:05 AHAzMMSTRIIM01 systemd[1]: Stopped Striim DBMS.
+Mar 28 09:06:05 AHAzMMSTRIIM01 systemd[1]: striim-dbms.service: Consumed 11.>
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl start striim-dbms
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl start striim-node
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl status striim-dbms
+● striim-dbms.service - Striim DBMS
+     Loaded: loaded (/lib/systemd/system/striim-dbms.service; enabled; vendo>
+     Active: active (running) since Tue 2023-03-28 09:06:45 UTC; 20s ago
+   Main PID: 18209 (java)
+      Tasks: 38 (limit: 77163)
+     Memory: 136.6M
+        CPU: 3.203s
+     CGroup: /system.slice/striim-dbms.service
+             └─18209 java -Dderby.stream.error.file=/var/log/striim/striim-d>
+
+Mar 28 09:06:45 AHAzMMSTRIIM01 systemd[1]: Started Striim DBMS.
+Mar 28 09:06:46 AHAzMMSTRIIM01 striim-dbms[18209]: Tue Mar 28 09:06:46 UTC 2>
+
+root@AHAzMMSTRIIM01:/opt/striim/conf# sudo systemctl status striim-node
+● striim-node.service - Striim Cluster Node
+     Loaded: loaded (/lib/systemd/system/striim-node.service; enabled; vendo>
+     Active: active (running) since Tue 2023-03-28 09:06:56 UTC; 25s ago
+   Main PID: 18248 (striim-node)
+      Tasks: 148 (limit: 77163)
+     Memory: 2.7G
+        CPU: 55.309s
+     CGroup: /system.slice/striim-node.service
+             ├─18248 /bin/bash /opt/striim/sbin/striim-node start
+             └─18252 /usr/bin/java -Xms1024m -Xmx11264m -server -XX:+UseG1GC>
+
+Mar 28 09:06:56 AHAzMMSTRIIM01 systemd[1]: Started Striim Cluster Node.
+...skipping...
+● striim-node.service - Striim Cluster Node
+     Loaded: loaded (/lib/systemd/system/striim-node.service; enabled; vendo>
+     Active: active (running) since Tue 2023-03-28 09:06:56 UTC; 25s ago
+   Main PID: 18248 (striim-node)
+      Tasks: 148 (limit: 77163)
+     Memory: 2.7G
+        CPU: 55.309s
+     CGroup: /system.slice/striim-node.service
+             ├─18248 /bin/bash /opt/striim/sbin/striim-node start
+             └─18252 /usr/bin/java -Xms1024m -Xmx11264m -server -XX:+UseG1GC>
+
+Mar 28 09:06:56 AHAzMMSTRIIM01 systemd[1]: Started Striim Cluster Node.
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+ Node
+em/striim-node.service; enabled; vendor preset: enabled)
+e 2023-03-28 09:06:56 UTC; 25s ago
+
+
+
+
+.service
+riim/sbin/striim-node start
+s1024m -Xmx11264m -server -XX:+UseG1GC -XX:+TieredCompilation -XX:+Aggressiv>
+
+[1]: Started Striim Cluster Node.
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+r preset: enabled)
+
+
+
+
+
+
+
+ -XX:+TieredCompilation -XX:+AggressiveOpts -XX:+UseCompressedOops -XX:+UseB>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+eOpts -XX:+UseCompressedOops -XX:+UseBiasedLocking -XX:+UseNUMA -Dstriim.mod>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+iasedLocking -XX:+UseNUMA -Dstriim.modules.path=/opt/striim/modules -Djava.s>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+ules.path=/opt/striim/modules -Djava.system.class.loader=com.webaction.class>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+ystem.class.loader=com.webaction.classloading.StriimClassLoader -Dlog4j2.con>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+loading.StriimClassLoader -Dlog4j2.contextSelector=org.apache.logging.log4j.>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+textSelector=org.apache.logging.log4j.core.selector.BasicContextSelector -Dl>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+core.selector.BasicContextSelector -Dlog4j2.isThreadContextMapInheritable=tr>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ ESCOC
+
+
+
+
+
+
+
+
+
+og4j2.isThreadContextMapInheritable=true -Dlog4j2.configurationFile=log4j.se>
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+
